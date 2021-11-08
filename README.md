@@ -2,7 +2,7 @@
 
 My name is Natália Barbosa, i'm from Brazil 🇧🇷
 
-I'm a math student that recently got immersed in the amazing world of programming. 💻
+I'm a statistics student that recently got immersed in the amazing world of programming. 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges 😄
 
