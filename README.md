@@ -1,6 +1,6 @@
 ## Welcome!
 
-My name is Natália Barbosa, i'm from Brazil 🇧🇷
+My name is Natália Oliveira, i'm from Brazil 🇧🇷
 
 I'm a statistics student that recently got immersed in the amazing world of programming. 💻
 
