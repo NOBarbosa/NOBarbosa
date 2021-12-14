@@ -7,5 +7,5 @@ I'm a statistics student that recently got immersed in the amazing world of prog
 I'm passionate about solving problems and learning. Always open to new challenges 😄
 
 - 📫 How to reach me:
-- [![Gmail Badge](https://img.shields.io/badge/-nob.ufba@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nob.ufba@gmail.com)](mailto:nob.ufba@gmail.com)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/liv_barbosa/?hl=en)](https://www.instagram.com/liv_barbosa/?hl=en) [![Linkedin Badge](https://img.shields.io/badge/-Natalia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1liaoliveirabarbosa//)](https://www.linkedin.com/in/nat%C3%A1liaoliveirabarbosa/) 
+- [![Gmail Badge](https://img.shields.io/badge/-nob.ufba@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nob.ufba@gmail.com)](mailto:nob.ufba@gmail.com)   [![Linkedin Badge](https://img.shields.io/badge/-Natalia-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nat%C3%A1liaoliveirabarbosa//)](https://www.linkedin.com/in/nat%C3%A1liaoliveirabarbosa/) 
 
