@@ -8,7 +8,7 @@ I'm a statistics student that recently got immersed in the amazing world of prog
  ##
  
 
- 
+ <div style="display: flex">
  <div align="center">
   <a href="https://github.com/NOBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NOBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -23,7 +23,7 @@ I'm a statistics student that recently got immersed in the amazing world of prog
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
- 
+ <div>
  ##
  <div>
  <a href = "mailto:nob.ufba@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
